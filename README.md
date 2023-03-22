@@ -1,6 +1,6 @@
 # Recreation of Award-winning Bokoko33's Portfolio
 
-**[Live demo](https://abigail-bloom-portolio-bokoko33.vercel.app/)**
+**[Visit](https://tanish-basu.netlify.app/)**
 
 This repo contains code of a recreation of **[Bokoko33's award-winning website](https://bokoko33.me/)**. 
 
