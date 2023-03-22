@@ -4,7 +4,6 @@
 
 This repo contains code of a recreation of **[Bokoko33's award-winning website](https://bokoko33.me/)**. 
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
 
 ## Instructions
 
